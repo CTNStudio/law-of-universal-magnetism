@@ -1,6 +1,6 @@
-package com.ctn.lawofuniversalmagnetism;
+package ctn.lawofuniversalmagnetism;
 
-import com.ctn.lawofuniversalmagnetism.datagen.LoUMTags;
+import ctn.lawofuniversalmagnetism.datagen.LoUMTags;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.data.PackOutput;
@@ -11,7 +11,7 @@ import net.neoforged.neoforge.data.event.GatherDataEvent;
 
 import java.util.concurrent.CompletableFuture;
 
-import static com.ctn.lawofuniversalmagnetism.LoUM.LOUM_ID;
+import static ctn.lawofuniversalmagnetism.LoUM.LOUM_ID;
 
 @EventBusSubscriber(bus = EventBusSubscriber.Bus.MOD, modid = LOUM_ID)
 public class LoUMDatagenMain {

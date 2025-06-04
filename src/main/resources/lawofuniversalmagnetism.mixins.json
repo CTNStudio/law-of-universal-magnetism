@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "ctn.lawofuniversalmagnetism.mixin",
+  "mixins": [
+    "BlockMixin",
+    "BlockStateMixin"
+  ],
+  "client": [
+  ],
+  "server": [],
+  "minVersion": "0.8.7"
+}

@@ -1,4 +1,4 @@
-package com.ctn.lawofuniversalmagnetism;
+package ctn.lawofuniversalmagnetism;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;

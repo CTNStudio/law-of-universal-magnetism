@@ -1,4 +1,4 @@
-package com.ctn.lawofuniversalmagnetism.datagen;
+package ctn.lawofuniversalmagnetism.datagen;
 
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.PackOutput;
@@ -14,7 +14,7 @@ import org.jetbrains.annotations.Nullable;
 
 import java.util.concurrent.CompletableFuture;
 
-import static com.ctn.lawofuniversalmagnetism.LoUM.LOUM_ID;
+import static ctn.lawofuniversalmagnetism.LoUM.LOUM_ID;
 
 public class LoUMTags {
 	private static @NotNull ResourceLocation getResourceLocation(String name) {
